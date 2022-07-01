@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Rylee and recently I was requested to make my very own activist website, so I did. While it is short, I believe it still gets the idea across and informs viewers about LGBTQ+ rights. Join the movement!
+### My name is Rylee and recently I was assigned the task of making my very own activist website, so I did, along with my parter, Ariella. While it is short, I believe it still gets the idea across and informs viewers about LGBTQ+ rights. Join the movement!
 
 <!--
 **rmbir/rmbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
